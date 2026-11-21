@@ -1,0 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+html, body, #root { height: 100%; margin: 0; background: #0b0b0b; }
+.app { height: 100%; display: flex; align-items: center; justify-content: center; }
+.screen { width: min(98vw, calc(98vh * 240 / 208)); image-rendering: pixelated; }
